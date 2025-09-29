@@ -1,0 +1,227 @@
+{
+   "mod": {
+     "flavor": {
+       "features": [],
+       "hash": "74be16979710d4c4e7c6647856088456",
+       "parent_hash": "d41d8cd98f00b204e9800998ecf8427e"
+     },
+     "license": "font/ofl.txt",
+     "payload": {
+       "app_icon": [
+         {
+           "id": "app_icon_01",
+           "name": "HZD #1",
+           "path": "app_icon/app_icon1.png"
+         }
+       ],
+       "background_music": [
+         {
+           "id": "0",
+           "name": "Horizon Zero Dawn",
+           "tracks": [
+             "music/track_1.mp3"
+           ]
+         }
+       ],
+       "browser_sounds": [
+         {
+           "id": "0",
+           "name": "Horizon Zero Dawn",
+           "sounds": {
+             "CLICK": [
+               "sounds/click.mp3"
+             ],
+             "FEATURE_SWITCH_OFF": [
+               "sounds/feature_switch_off.mp3"
+             ],
+             "FEATURE_SWITCH_ON": [
+               "sounds/feature_switch_on.mp3"
+             ],
+             "HOVER": [
+               "sounds/hover.mp3"
+             ],
+             "HOVER_UP": [
+               "sounds/hover.mp3"
+             ],
+             "IMPORTANT_CLICK": [
+               "sounds/click.mp3"
+             ],
+             "LIMITER_OFF": [
+               "sounds/limiter_off.mp3"
+             ],
+             "LIMITER_ON": [
+               "sounds/limiter_on.mp3"
+             ],
+             "SWITCH_TOGGLE": [
+               "sounds/switch.mp3"
+             ],
+             "TAB_CLOSE": [
+               "sounds/closetab.mp3"
+             ],
+             "TAB_INSERT": [
+               "sounds/opentab.mp3"
+             ],
+             "TAB_SLASH": [
+               "sounds/hottabkiller.mp3"
+             ]
+           }
+         }
+       ],
+       "fonts": [
+         {
+           "header": {
+             "name": "SSTJpCondPro-Regular",
+             "variants": [
+               {
+                 "path": "font/SSTJpCondPro-Regular.ttf"
+               }
+             ]
+           },
+           "id": "fonts_01",
+           "name": "Horizon Zero Dawn"
+         }
+       ],
+       "image_overrides": [
+         {
+           "id": "image_overrides_01",
+           "images": {
+             "sidebar_downloads_button": "icons/sidebar_downloads_button.json",
+             "sidebar_gx_booster_button": "icons/sidebar_gx_booster_button.json",
+             "sidebar_mods_button": "icons/sidebar_mods_button.json",
+             "sidebar_settings_button": "icons/sidebar_settings_button.json",
+             "sidebar_shaders_button": "icons/sidebar_shaders_button.json"
+           },
+           "name": "Horizon Zero Dawn"
+         }
+       ],
+       "keyboard_sounds": [
+         {
+           "id": "0",
+           "name": "Horizon Zero Dawn",
+           "sounds": {
+             "TYPING_BACKSPACE": [
+               "sounds/backspace.mp3"
+             ],
+             "TYPING_ENTER": [
+               "sounds/enter.mp3"
+             ],
+             "TYPING_LETTER": [
+               "sounds/letter.mp3"
+             ],
+             "TYPING_SPACE": [
+               "sounds/space.mp3"
+             ]
+           }
+         }
+       ],
+       "mobile_image_overrides": [
+         {
+           "id": "0",
+           "images": {
+             "start_page_logo": "app_icon/app_icon1.png"
+           },
+           "name": "Horizon Zero Dawn"
+         }
+       ],
+       "splash_screen": [
+         {
+           "id": "splash_screen_01",
+           "name": "Horizon Zero Dawn",
+           "path": "splash/splash1.mp4"
+         }
+       ],
+       "stickers": [
+         {
+           "id": "stickers_01",
+           "images": [
+             "stickers/sticker1.webp",
+             "stickers/sticker2.webp",
+             "stickers/sticker3.webp",
+             "stickers/sticker4.webp"
+           ],
+           "name": "Horizon Zero Dawn Stickers",
+           "preview": "stickers/sticker1.webp"
+         }
+       ],
+       "theme": [
+         {
+           "dark": {
+             "gx_accent": {
+               "h": 240,
+               "l": 65,
+               "s": 100
+             },
+             "gx_secondary_base": {
+               "h": 240,
+               "l": 16,
+               "s": 24
+             }
+           },
+           "id": "0",
+           "light": {
+             "gx_accent": {
+               "h": 28,
+               "l": 54.1,
+               "s": 74.4
+             },
+             "gx_secondary_base": {
+               "h": 20,
+               "l": 16,
+               "s": 100
+             }
+           },
+           "name": "Horizon Zero Dawn"
+         }
+       ],
+       "wallpaper": [
+         {
+           "dark": {
+             "first_frame": "wallpaper/dark.png",
+             "image": "wallpaper/desktop_dark.mp4",
+             "image_mobile": "wallpaper/mobile_dark.mp4",
+             "speeddial_position": "top",
+             "text_color": "#f0f0f0",
+             "text_shadow": "#ffffff",
+             "ui_settings": {
+               "background_blur": 0,
+               "background_opacity": 0,
+               "focus_mode": false,
+               "islands_opacity": 0,
+               "vignette_strength": 35
+             }
+           },
+           "id": "0",
+           "light": {
+             "first_frame": "wallpaper/first_frame.png",
+             "image": "wallpaper/desktop_light.mp4",
+             "image_mobile": "wallpaper/mobile_light.mp4",
+             "speeddial_position": "top",
+             "text_color": "#f0f0f0",
+             "text_shadow": "#00ff00",
+             "ui_settings": {
+               "background_blur": 0,
+               "background_opacity": 0,
+               "focus_mode": false,
+               "islands_opacity": 0,
+               "vignette_strength": 26
+             }
+           },
+           "name": "Horizon Zero Dawn"
+         }
+       ]
+     },
+     "schema_version": 2
+   },
+   "author": "Juan_Pablo_230",
+   "manifest_version": 3,
+   "name": "Fondo Horizon Zero Dawn",
+   "update_url": "https://api.gx.me/store/mods/update",
+   "description": "El mod está creado para reproducir la atmósfera del Horizon Zero Dawn en el navegador, incorporando todos los efectos de sonido originales, dos fondos en video de gran impacto y la música original. Todo ha sido optimizado para ofrecer la mejor experiencia posible al usuario final. Valora el mod para poder seguir mejorando.",
+   "developer": {
+     "name": "Juan_Pablo_230"
+   },
+   "icons": {
+     "512": "icon_512.png"
+   },
+   "version": "1.1.1"
+ }
