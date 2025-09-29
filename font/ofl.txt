@@ -1,0 +1,96 @@
+        
+                 ____                          _______   __ 
+                / __ \                        / ____\ \ / /
+               | |  | |_ __   ___ _ __ __ _  | |  __ \ V / 
+               | |  | | '_ \ / _ \ '__/ _` | | | |_ | > <  
+               | |__| | |_) |  __/ | | (_| | | |__| |/ . \ 
+                \____/| .__/ \___|_|  \__,_|  \_____/_/ \_\
+                      | |                                  
+                      |_|                                  
+ 
+                                           
+ ____                  _     _   _         
+|    \ ___ ___ ___ ___|_|___| |_|_|___ ___ 
+|  |  | -_|_ -|  _|  _| | . |  _| | . |   |
+|____/|___|___|___|_| |_|  _|_| |_|___|_|_|
+                        |_|                
+...............................................................................
+
+Español:
+Este mod se encarga de adaptar el Navegador Opera GX con la apariencia del juego Horizon Zero Dawn, al ver que no había mods que hicieran eso, me propuse armar uno de ese estilo. Cualquier error o sugerencia, son bienvenidas
+Este mod se realizo con fines de entretenimiento y todavía esta en fase de pruebas, cualquier error o sugerencias son bienvenidas.
+
+English:
+This mod is responsible for adapting the Opera GX Browser to the appearance of the game Horizon Zero Dawn, seeing that there were no mods that did that, I decided to create one of that style. Any errors or suggestions are welcome
+This mod was made for entertainment purposes and is still in the testing phase, any errors or suggestions are welcome.
+
+ _____           _ _ _       
+|     |___ ___ _| |_| |_ ___ 
+|   --|  _| -_| . | |  _|_ -|
+|_____|_| |___|___|_|_| |___|
+...............................................................................
+
+Juan_Pablo_230
+                                                              
+ __    _                         
+|  |  |_|___ ___ ___ ___ ___ ___ 
+|  |__| |  _| -_|   |  _| -_|_ -|
+|_____|_|___|___|_|_|___|___|___|
+...............................................................................
+               
+Español:
+Tanto las imágenes como los archivos de audio son propiedad de Guerrilla Games y PlayStation Studios.
+
+English:
+Both images and audio files are property of Guerrilla Games and PlayStation Studios.
+
+ _____ _       ___ ___ 
+|   __| |_ _ _|  _|  _|
+|__   |  _| | |  _|  _|
+|_____|_| |___|_| |_|  
+...............................................................................
+                       
+Español:
+El contenido se realizo solo con fines de entretenimiento y para uso personal.
+Consulta todos los mods armados por el equipo en https://store.gx.me/studios/84357b75-be7b-439d-b98b-aaaf13ad44ee/
+
+English:
+The content is made for entertainment purposes only and for personal use.
+Check out all the mods put together by the team at https://store.gx.me/studios/84357b75-be7b-439d-b98b-aaaf13ad44ee/
+
+...............................................................................
+Novedades de la version 1.1.1:
+
+- Se volvio al codigo de la version 1.0, debido a que el mod esta provocando cracheos al navegador, desconozco la causa, pero ya estoy viendo en solucionarla.
+
+
+What's new in version 1.1.1:
+
+- We've reverted to the code from version 1.0 because the mod is causing browser crashes. I don't know the cause, but I'm already working on fixing it.
+...............................................................................
+Novedades de la version 1.1.0:
+
+- Se modifico la estructura interna del codigo del mod, es decir, ahora el mod soporta mas funciones, aunque solo se podran aprovechar con el modo de desarrollador activado, debido a que no estoy sabiendo como aplicarlo para todos los usuarios.
+
+- Estos cambios llegaran proximamente al mod "Fondo Horizon Forbidden West", pero por ahora solo se realizara la prueba dentro de este mod.
+
+
+What's new in version 1.1.0:
+
+- The mod's internal code structure has been modified, meaning the mod now supports more features, although they can only be used with developer mode enabled, as I'm not sure how to implement them for all users.
+
+- These changes will soon be coming to the "Fondo Horizon Forbidden West" mod, but for now, testing will only be done within that mod.
+
+...............................................................................
+Novedades de la versión de lanzamiento 1.0:
+
+- La modificación fue creada basándose en el código del mod "Fondo de Horizon Forbidden West" en su versión 3.1.1, por lo que todas sus novedades también se verán reflejadas en este mod.
+
+- Las funciones "Efecto de acceso rápido", "Icono de la app", "Fuentes" e "Iconos" pueden no funcionar debido a un error que desconozco, para forzar su activación, el mod debe ser cargado como desarrollador, al realizar esto, automáticamente perderás la función de actualización automáticamente y puede ser que el mod cargado se desactive y lo tengas que cargar nuevamente, tu decides que hacer. El conozca una solución, por favor, publicarla en la sección de "Feedback" de este mod.
+
+
+What's New in Release 1.0:
+
+- This mod was created based on the code from the Horizon Forbidden West Background mod in version 3.1.1, so all its new features will also be reflected in this mod.
+
+- The "Quick Access Effect," "App Icon," "Fonts," and "Icons" features may not work due to an unknown bug. To force their activation, the mod must be loaded as a developer. Doing so will automatically remove the auto-update feature, and the loaded mod may be deactivated and you may have to reload it. If you know of a solution, please post it in the "Feedback" section of this mod.
